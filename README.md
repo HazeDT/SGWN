@@ -9,7 +9,7 @@ In SGWN, the spectral graph wavelet convolutional (SGWConv) layer is established
 
 
 # Implementation
-python ./SGWM/train_graph.py --model_name SGWN  --checkpoint_dir ./results/   --data_name XJTUSpurgearKnn --data_dir ./data/XJTUSpurgearKnn --per_node 10 --s 2 --n 2 
+python ./SGWM/train_graph.py --model_name SGWN  --checkpoint_dir ./results/   --data_name XJTUSpurgearKnn --data_dir ./data/XJTU_Spurgear --per_node 10 --s 2 --n 2 
 
 
 # Citation
@@ -23,7 +23,6 @@ SGWN:
   volume={54},
   number={1},
   pages={506-518},
-  keywords={Feature extraction;Fault diagnosis;Wavelet transforms;Convolution;Band-pass filters;Kernel;Mathematical models;Graph neural networks (GNNs);intelligent fault diagnosis;interpretable;multiscale feature extraction},
   doi={10.1109/TCYB.2023.3256080}}
 
 
