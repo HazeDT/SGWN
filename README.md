@@ -1,5 +1,5 @@
 # Spectral Graph Wavelet Networks(SGWN)
-This code is about the implementation of [Interpretable Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10079151).
+This code is about the implementation of [Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10079151).
 
 ![SGWN](https://github.com/HazeDT/DAGCN/blob/main/Figure.png)
 ![SGWConv](https://github.com/HazeDT/DAGCN/blob/main/Figure.png)
